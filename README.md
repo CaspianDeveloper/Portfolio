@@ -104,11 +104,6 @@ portfolio/
 - **Responsive Design**: Mobil, tablet və desktop uyğunlaşma
 - **Smooth Animations**: Framer Motion ilə axıcı keçidlər
 
-## 📝 Qeydlər
-
-- Proyekt şəkilləri üçün real URL-lər istifadə edin
-- Email və sosial media linklərini real məlumatlarla əvəz edin
-- Proyektlərinizin GitHub və demo linklərini əlavə edin
 
 ## 🚀 Deploy
 
