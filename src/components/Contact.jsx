@@ -8,7 +8,7 @@ const socialLinks = [
   {
     icon: Github,
     name: "GitHub",
-    url: "https://github.com/CaspianDiv",
+    url: "https://github.com/CaspianDevoloper",
     color: "hover:text-gray-900 dark:hover:text-white",
   },
   {
