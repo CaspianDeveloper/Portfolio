@@ -303,7 +303,7 @@ const projectsData = [
     image: `${project_23}`,
     tags: ["HTML5", "CSS3" , "Vanilla JS", "Swiper JS"],
     github: "https://github.com/CaspianDiv/turbo.az-Cloune-Website-",
-    demo: "https://turboaz-cloune-website.netlify.app",
+    demo: "https://thomann-final-project-frontend.vercel.app/Thomann",
   }
 ];
 
