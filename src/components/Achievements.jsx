@@ -120,7 +120,7 @@ export const Achievements = () => {
   }));
 
   const handleDownloadCV = () => {
-    const cvUrl = "https://drive.google.com/file/d/1hR_pa0hWsQ2jhKFzVve5LLmdWqmWpRjf/view?usp=sharing";
+    const cvUrl = "https://drive.google.com/file/d/1TDfxsSIvoahVco39_zvyKSqEipgTPJe6/view?usp=sharing";
     window.open(cvUrl, "_blank");
   };
 
