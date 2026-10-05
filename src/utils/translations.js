@@ -12,7 +12,7 @@ export const translations = {
     // Hero
     hero: {
       greeting: "Salam, mən",
-      title: "Cəfərzadə Şahin",
+      title: "Şahin Cəfərzadə",
       subtitle: "Front-End Developer olmaq üzrə birinci dərəcəli diplom və sertifikat sahibi. DivAcademy-də Full Stack Developer təhsili alıram.",
       viewProjects: "Proyektlərə Bax",
       contactMe: "Əlaqə Saxla",
@@ -31,7 +31,7 @@ export const translations = {
         },
         {
           title: "Back-End Journey",
-          description: "2026-ci ilin İyun ayından Node.js üzrə Back-End dərslərim başlayacağ",
+          description: "2026-ci ilin İyul ayından Node.js üzrə Back-End dərslərim başladı",
         },
       ],
       description: "Web development sahəsində öz kariyeramı qurmaq üçün əlimdən gələni edirəm. Front-End üzrə möhkəm təməl qurduqdan sonra, indi Full Stack Developer olmaq yolunda irəliləyirəm. Hər gün yeni texnologiyalar öyrənir və praktiki proyektlər üzərində işləyirəm.",
@@ -41,14 +41,14 @@ export const translations = {
       title: "Təhsil",
       items: [
         {
-          date: "Yanvar 2024 - İndiki vaxt",
+          date: "Yanvar 2024 - Oktyabr 2026",
           title: "Full Stack Developer",
           institution: "DivAcademy",
-          description: "Full Stack Development üzrə professional təhsil alıram. Front-End texnologiyalarını mənimsəmişəm, May 2026-dən Node.js ilə Back-End dərslərim başlayacaq.",
+          description: "Full Stack Development üzrə professional təhsil alıram. Front-End texnologiyalarını mənimsəmişəm, İyul 2026-dən Node.js ilə Back-End dərslərim başladı.",
           status: "Davam edir",
         },
         {
-          date: "Yanvar 2024 - Avqust 2025",
+          date: "Yanvar 2024 - Sentyabr 2025",
           title: "Front-End Developer",
           institution: "DivAcademy",
           description: "Front-End Developer üzrə birinci dərəcəli diplom sertifikatı aldım. Modern web texnologiyaları və best practices-i öyrəndim.",
@@ -128,7 +128,7 @@ export const translations = {
     // Hero
     hero: {
       greeting: "Hello, I'm",
-      title: "Jafarzadeh Shahin",
+      title: "Shahin Jafarzadeh",
       subtitle: "Holder of a first-class diploma and certification in Front-End Development. Currently studying Full Stack Development at DivAcademy.",
       viewProjects: "View Projects",
       contactMe: "Contact Me",
@@ -147,7 +147,7 @@ export const translations = {
         },
         {
           title: "Back-End Journey",
-          description: "Will start Back-End courses in Node.js from June 2026",
+          description: "Will start Back-End courses in Node.js from July 2026",
         },
       ],
       description: "I'm doing my best to build my career in web development. After building a solid foundation in Front-End, I'm now progressing towards becoming a Full Stack Developer. I learn new technologies every day and work on practical projects.",
@@ -157,14 +157,14 @@ export const translations = {
       title: "Education",
       items: [
         {
-          date: "January 2024 - Present",
+          date: "January 2024 - October 2026",
           title: "Full Stack Developer",
           institution: "DivAcademy",
-          description: "Receiving professional education in Full Stack Development. Mastered Front-End technologies, Back-End courses in Node.js will start from May 2025.",
+          description: "Receiving professional education in Full Stack Development. Mastered Front-End technologies, Back-End courses in Node.js will start from July 2025.",
           status: "In Progress",
         },
         {
-          date: "January 2024 - August 2026",
+          date: "January 2024 - September 2025",
           title: "Front-End Developer",
           institution: "DivAcademy",
           description: "Received a first-class diploma certificate in Front-End Development. Learned modern web technologies and best practices.",
@@ -244,7 +244,7 @@ export const translations = {
     // Hero
     hero: {
       greeting: "Привет, я",
-      title: "Джафарзаде Шахин",
+      title: "Шахин Джафарзаде",
       subtitle: "Обладатель диплома с отличием и сертификата в области Front-End разработки. В настоящее время изучаю Full Stack Development в DivAcademy.",
       viewProjects: "Смотреть проекты",
       contactMe: "Связаться",
@@ -263,7 +263,7 @@ export const translations = {
         },
         {
           title: "Back-End путь",
-          description: "С Июнь 2026 года начну курсы Back-End на Node.js",
+          description: "С Июль 2026 года начну курсы Back-End на Node.js",
         },
       ],
       description: "Я делаю все возможное, чтобы построить свою карьеру в веб-разработке. После создания прочной основы во Front-End, я теперь продвигаюсь к тому, чтобы стать Full Stack разработчиком. Каждый день изучаю новые технологии и работаю над практическими проектами.",
@@ -273,14 +273,14 @@ export const translations = {
       title: "Образование",
       items: [
         {
-          date: "Январь 2024 - Настоящее время",
+          date: "Январь 2024 - Октябрь 2026",
           title: "Full Stack Developer",
           institution: "DivAcademy",
-          description: "Получаю профессиональное образование по Full Stack разработке. Освоил Front-End технологии, курсы Back-End на Node.js начнутся с мая 2025 года.",
+          description: "Получаю профессиональное образование по Full Stack разработке. Освоил Front-End технологии, курсы Back-End на Node.js начнутся с Июль 2026 года.",
           status: "В процессе",
         },
         {
-          date: "Январь 2024 - Август 2025",
+          date: "Январь 2024 - Сентябрь 2026",
           title: "Front-End Developer",
           institution: "DivAcademy",
           description: "Получил диплом первой степени по Front-End разработке. Изучил современные веб-технологии и лучшие практики.",

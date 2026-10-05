@@ -9,8 +9,8 @@ const skillsData = [
       { name: "HTML5/CSS3", level: 100 },
       { name: "JavaScript", level: 90 },
       { name: "Jquery", level: 70 },
-      { name: "SCSS", level: 75 },
-      { name: "SASS", level: 65 },
+      { name: "SCSS", level: 100 },
+      { name: "SASS", level: 100 },
       { name: "React", level: 80 },
       { name: "Tailwind CSS", level: 100 },
     ],
@@ -18,10 +18,11 @@ const skillsData = [
   {
     icon: Database,
     skills: [
-      { name: "Node.js", level: 40 },
-      { name: "Express", level: 35 },
-      { name: "MongoDB", level: 30 },
+      { name: "Node.js", level: 60 },
+      { name: "Express", level: 60 },
       { name: "REST API", level: 90 },
+      { name: "PostgreSql", level: 50 },
+      { name: "JWT", level: 50 },
     ],
   },
   {
@@ -39,7 +40,7 @@ const skillsData = [
     skills: [
       { name: "Git & GitHub", level: 80 },
       { name: "Vite", level: 85 },
-      { name: "NPM", level: 75 },
+      { name: "NPM", level: 90 },
       { name: "VS Code", level: 90 },
     ],
   },
